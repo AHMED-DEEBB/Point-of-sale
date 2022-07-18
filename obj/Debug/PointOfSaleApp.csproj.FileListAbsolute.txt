@@ -1,0 +1,11 @@
+E:\C#\Windows Forms\PointOfSaleApp\bin\Debug\PointOfSaleApp.exe.config
+E:\C#\Windows Forms\PointOfSaleApp\bin\Debug\PointOfSaleApp.exe
+E:\C#\Windows Forms\PointOfSaleApp\bin\Debug\PointOfSaleApp.pdb
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.AssemblyReference.cache
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.SuggestedBindingRedirects.cache
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.Form1.resources
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.Properties.Resources.resources
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.GenerateResource.cache
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.csproj.CoreCompileInputs.cache
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.exe
+E:\C#\Windows Forms\PointOfSaleApp\obj\Debug\PointOfSaleApp.pdb
